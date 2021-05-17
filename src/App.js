@@ -52,11 +52,11 @@ function App() {
       <Router>
         <Nav countCartItems={cartItems.length}></Nav>
             <Switch>
+                <Route path="/" exact component={() =>
+                    <Home />} />
                 <Route path="/main" exact component={() =>
                     <Main products={products}
                         onAdd={onAdd}title={'Props through component'}/>} />
-                <Route path="/" exact component={() =>
-                    <Home />} />
                 <Route path="/contact" exact component={() =>
                     <Contact />} />
                 <Route path="/cart" exact component={() =>
