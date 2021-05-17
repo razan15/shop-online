@@ -4,9 +4,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-html {
-  scroll-behavior: smooth;
-}
+
 body {
   background: rgb(182, 177, 171);
   width: 100%;
