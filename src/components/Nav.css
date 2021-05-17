@@ -1,0 +1,39 @@
+.Nav {
+    width: 100%;
+    background: rgba(187, 176, 176, 0.67);
+    min-height: 50px;
+    text-align: right;
+    position: fixed;
+    z-index: 3;
+    top: 25px;
+    padding-top: 11px;
+    font-size: 1.1em;
+    font-family: 'Arimo', sans-serif;
+  }
+  .Nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 1.2em;
+  }
+  .Nav a:hover {
+    color:rgb(55, 21, 180);
+  }
+  button {
+    font-size: 0.8em;
+    padding: 0.2em;
+    margin: 0.1em;
+    border-radius: 0.3em;
+    border: 0.1em solid #333;
+    background-color: rgb(110, 233, 130);
+    width: 50%;
+    cursor: pointer ;
+    align-content: center;
+    text-align: center;
+  }
+  button.count {
+    background-color: darksalmon;
+    border: none;
+    color: #fff;
+    width: 3em;
+    margin-right: 3em;
+  }

@@ -1,0 +1,14 @@
+.Main {
+    width: 100%;
+    min-height: 700px;
+    font-family: 'Arimo', sans-serif;
+    background-color: rgb(187, 176, 176);
+  }
+  .Main >h2 {
+    color:#333;
+    padding-left: 4em;
+    padding-top: 1em;
+  }
+  .productMap {
+    width: 100%;
+  }

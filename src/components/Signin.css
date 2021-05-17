@@ -1,0 +1,13 @@
+.signin  {
+    min-height: 325px;
+    text-align: center;
+    padding-top: 100px;
+    background-color: rgb(187, 176, 176);
+  }
+  .signin h1 {
+    padding-bottom: 50px;
+  }
+  .signin button {
+    width: 10%;
+    background-color: rgb(126, 153, 80);
+  }

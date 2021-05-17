@@ -1,0 +1,11 @@
+.Header {
+    width: 100%;
+    min-height: 150px;
+    font-family: 'Arimo', sans-serif;
+    background-color: rgb(240, 230, 230);
+  }
+  .Header h1 {
+    padding-top: 3em;
+    padding-left: 3em;
+    font-weight: 900;
+  }

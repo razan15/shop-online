@@ -1,0 +1,22 @@
+.Contact {
+    width: 100%;
+    min-height:325px;
+    text-align: center;
+    background-color: rgb(187, 176, 176);
+  }
+  .Contact h1 {
+    text-align: center;
+    padding-top: 2.3em;
+    font-size: 2em;
+  }
+  .phone {
+    text-align: center;
+    font-size: 1em;
+    padding-top: 3em;
+  }
+  .email {
+    text-align: center;
+    font-size: 1em;
+    padding-top: 3em;
+    padding-left: 7em;
+  }

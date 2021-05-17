@@ -1,0 +1,55 @@
+.Cart {
+    width: 100%;
+    min-height: 325px;
+    background: rgb(247, 170, 104);
+    font-family: 'Arimo', sans-serif;
+  }
+  .Cart h2{
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #000;
+    padding-top: 50px;
+    padding-left: 3em;
+  }
+  .Cart h3{
+    font-weight: 400;
+    color: #000;
+    padding-top: 30px;
+    padding-left: 3em;
+  }
+  .text {
+    text-align: right;
+    padding-right: 6em;
+  }
+  .itemName {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 30px;
+    padding-bottom: 1px;
+  }
+  button {
+    font-size: 0.8em;
+    padding: 0.2em;
+    margin: 0.1em;
+    border-radius: 0.3em;
+    border: 0.1em solid #333;
+    background-color: rgb(110, 233, 130);
+    width: 50%;
+    cursor: pointer ;
+    align-content: center;
+    text-align: center;
+  }
+  button.remove {
+    background-color: rgb(231, 71, 71);
+    width: 3.5em;
+    margin-left: 5em;
+    margin-top: 15px;
+  }
+  .inside{
+    padding-left: 2em;
+  }
+  .checkOut {
+    width: 40%;
+    justify-content: center;
+    margin-left: 40%;
+  }

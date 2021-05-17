@@ -1,0 +1,20 @@
+.pic {
+    background-color: rgb(240, 230, 230);
+    float: left;
+    margin: 4%;
+    margin-left: 7%;
+    text-align: center;
+    border: 3px solid rgb(102, 95, 95);
+    border-radius: 1em;
+  }
+  .pic h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+  }
+  .image {
+    height: 8em;
+    width: 10em;
+    background-color: #fff;
+    border: 3px;
+    border-radius: 1em 1em 0 0; 
+  }
